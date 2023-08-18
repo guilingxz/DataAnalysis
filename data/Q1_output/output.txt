@@ -1,0 +1,204 @@
+国家,累计旅游人数
+Afghanistan,129900
+Albania,3063300
+Algeria,474950
+American Samoa,4400
+Andorra,191000
+Angola,1028300
+Antigua and Barbuda,553100
+Argentina,10799600
+Armenia,1359000
+Aruba,3153560
+Australia,65183900
+Austria,28242300
+Azerbaijan,2647310
+Bahamas,5533700
+Bahrain,4676300
+Bangladesh,262150
+Barbados,1968100
+Belarus,1509850
+Belgium,20845500
+Belize,29300
+Benin,330676
+Bermuda,440300
+Bhutan,146700
+Bolivia, Plurinational State of,1066700
+Bosnia and Herzegovina,1498300
+Botswana,1102501
+Brazil,11105600
+Brunei Darussalam,264200
+Bulgaria,7767600
+Burkina Faso,209800
+Burundi,3030
+C?te d'Ivoire,492830
+Cabo Verde,705600
+Cambodia,4393900
+Cameroon,810500
+Canada,24143600
+Cayman Islands,1402200
+Central African Republic,15330
+Chad,17900
+Chile,5759100
+China,113154200
+Colombia,7938500
+Comoros,83690
+Congo,65939
+Congo, The Democratic Republic of the,18540
+Costa Rica,5906400
+Croatia,17630485
+Cuba,5791900
+Cura?ao,1062800
+Cyprus,6457609
+Czechia,13226500
+Denmark,13341600
+Djibouti,37950
+Dominica,208700
+Dominican Republic,9597500
+Ecuador,2291000
+Egypt,19054200
+El Salvador,1892600
+Equatorial Guinea,3940
+Eritrea,91600
+Estonia,2841100
+Eswatini,88314
+Ethiopia,3261100
+Fiji,1890900
+Finland,9698200
+France,131950300
+French Polynesia,1091000
+Gabon,130000
+Gambia,176120
+Georgia,2558200
+Germany,104724000
+Ghana,1751500
+Greece,33602200
+Grenada,414200
+Guatemala,2128500
+Guinea,14904
+Guinea-Bissau,9486
+Guyana,67300
+Haiti,687100
+Honduras,1161610
+Hungary,14855800
+Iceland,698100
+India,26619300
+Indonesia,17265400
+Iran, Islamic Republic of,5069900
+Iraq,2720900
+Ireland,19816412
+Israel,12747000
+Italy,68967600
+Jamaica,2894600
+Japan,42295400
+Jordan,7978900
+Kazakhstan,3197200
+Kenya,3148200
+Kiribati,2677
+Korea, Republic of,33726200
+Kuwait,1461500
+Kyrgyzstan,684400
+Lao People's Democratic Republic,846540
+Latvia,396600
+Lebanon,12768400
+Lesotho,14422
+Liberia,66200
+Libya,202500
+Lithuania,488600
+Luxembourg,9071100
+Madagascar,1054500
+Malawi,107300
+Malaysia,35427600
+Maldives,2496700
+Mali,348350
+Malta,1112600
+Marshall Islands,14164
+Mauritania,25610
+Mauritius,3393600
+Mexico,34823000
+Micronesia, Federated States of,22310
+Moldova, Republic of,560900
+Mongolia,559300
+Montenegro,1246500
+Morocco,15512400
+Mozambique,339300
+Myanmar,1628200
+Namibia,850700
+Nauru,2260
+Nepal,916700
+Netherlands,29767370
+New Caledonia,237000
+New Zealand,13880600
+Nicaragua,41900
+Niger,138990
+Nigeria,1473500
+North Macedonia,470900
+Northern Mariana Islands,65500
+Norway,12093400
+Oman,2975600
+Pakistan,2068400
+Palau,129900
+Palestine, State of,569200
+Panama,7171000
+Papua New Guinea,6862
+Paraguay,521100
+Peru,5809700
+Philippines,10744800
+Poland,25151900
+Portugal,31405300
+Puerto Rico,7798000
+Qatar,11639600
+Romania,4258000
+Russian Federation,25088800
+Rwanda,532540
+Saint Kitts and Nevis,336300
+Saint Lucia,973200
+Saint Vincent and the Grenadines,139730
+Samoa,232937
+Sao Tome and Principe,48480
+Saudi Arabia,14947400
+Senegal,867718
+Serbia,1990200
+Seychelles,910200
+Sierra Leone,83000
+Singapore,26225400
+Sint Maarten (Dutch part),985700
+Slovakia,4623400
+Slovenia,5554560
+Solomon Islands,92762
+South Africa,18889200
+South Sudan,8350
+Spain,11736100
+Sri Lanka,4340200
+Sudan,816500
+Suriname,160300
+Sweden,11422500
+Switzerland,38835300
+Syrian Arab Republic,2496100
+Tajikistan,208610
+Tanzania, United Republic of,2962650
+Thailand,65191200
+Timor-Leste,46330
+Togo,252100
+Tonga,55530
+Trinidad and Tobago,1380400
+Tunisia,6273900
+Turkey,46665700
+Turkmenistan,5900
+Turks and Caicos Islands,154800
+Tuvalu,1720
+Uganda,1462500
+Ukraine,6761600
+United Arab Emirates,27724620
+United Kingdom,11889900
+United States,392943200
+Uruguay,3577100
+Uzbekistan,694000
+Vanuatu,412500
+Venezuela, Bolivarian Republic of,1692600
+Viet Nam,10053200
+Virgin Islands, British,773800
+Virgin Islands, U.S.,2985300
+Yemen,573400
+Zimbabwe,463100
+旅游出发人数最多的国家: USA，人数：392943200
+旅游到达人数最多的国家: GAB，人数：55671060
